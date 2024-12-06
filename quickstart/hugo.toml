@@ -1,0 +1,4 @@
+baseURL = 'https://hugo.cjwebster.net/'
+languageCode = 'en-gb'
+title = "Craig Hugo Site"
+theme = 'ananke'
