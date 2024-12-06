@@ -1,4 +1,4 @@
-baseURL = 'https://hugo.cjwebster.net/'
+baseURL = 'https://cjwebster93.github.io/'
 languageCode = 'en-gb'
 title = "Craig Hugo Site"
 theme = 'ananke'
