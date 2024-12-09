@@ -1,6 +1,7 @@
----
-title: About this site
----
++++
+title = 'About this site'
+menus = 'main'
++++
 
 # This is a test blog site
 

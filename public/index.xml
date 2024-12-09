@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craig Hugo Site</title>
-    <link>https://hugo.cjwebster.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Craig Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo.cjwebster.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 10:17:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A selection of Menus</title>
+      <link>http://localhost:1313/posts/a-selection-of-menus/</link>
+      <pubDate>Mon, 09 Dec 2024 10:17:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-selection-of-menus/</guid>
+      <description>&lt;p&gt;Why are there 5 hundred ways to build a menu!?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/menus/&#34;&gt;Hugo Menu Docs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://discourse.gohugo.io/t/how-to-create-multilevel-dropdown-menu-in-hugo/18373/8&#34;&gt;How to create multilevel dropdown menu in hugo?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve stuck to the &amp;ldquo;front matter&amp;rdquo; method for now as that seems to bethe easies but I don&amp;rsquo;t really get a nexted menu this way (2+ levels) if I wanted to list a number of pages below categories.&#xA;&lt;img src=&#34;../../assets/images/front-matter-menus.png&#34; alt=&#34;front matter menus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Oh well&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 06 Dec 2024 15:42:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About this site</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-test-blog-site&#34;&gt;This is a test blog site&lt;/h1&gt;&#xA;&lt;p&gt;This has just been soun up to experiment with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; as a blog CMS.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Do not expect any meaningful content at this time!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
